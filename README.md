@@ -1,4 +1,4 @@
-# AGN-data-spectra
+# AGN-data-Mrk335
 
 This repository contains the source arf and rmf files and the associated background and grouped spectral files for swift reporduction and further work. Details of how these files were created are as follows:
 
